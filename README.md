@@ -4,7 +4,7 @@ This project is a web-based implementation of the classic Snake game, developed 
 
 ## Demo
 
-You can try out the game by opening the `snake.html` file in your web browser.
+You can try out the game by opening the `index.html` file in your web browser.
 
 ## How to Play
 
@@ -35,7 +35,7 @@ You can try out the game by opening the `snake.html` file in your web browser.
 
 ```bash
 .
-├── snake.html    # Main HTML file with embedded JavaScript and Tailwind CSS
+├── index.html    # Main HTML file with embedded JavaScript and Tailwind CSS
 └── README.md     # Project documentation
 ```
 
