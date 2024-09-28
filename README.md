@@ -6,8 +6,6 @@ This project is a web-based implementation of the classic Snake game, developed 
 
 You can try out the game by opening the `snake.html` file in your web browser.
 
-![Snake Game Screenshot](![image](https://github.com/user-attachments/assets/1afad3ac-d552-468f-a45e-58a66aa71d6a))
-
 ## How to Play
 
 1. Use the arrow keys to move the snake:
