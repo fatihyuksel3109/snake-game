@@ -4,10 +4,9 @@ This project is a web-based implementation of the classic Snake game, developed 
 
 ## Demo
 
-You can try out the game by opening the `index.html` file in your web browser.
+You can try out the game by opening the `snake.html` file in your web browser.
 
-![Snake Game Screenshot](screenshot.png)  
-_Example screenshot of the Snake game._
+![Snake Game Screenshot](![image](https://github.com/user-attachments/assets/1afad3ac-d552-468f-a45e-58a66aa71d6a))
 
 ## How to Play
 
@@ -38,7 +37,7 @@ _Example screenshot of the Snake game._
 
 ```bash
 .
-├── index.html    # Main HTML file with embedded JavaScript and Tailwind CSS
+├── snake.html    # Main HTML file with embedded JavaScript and Tailwind CSS
 └── README.md     # Project documentation
 ```
 
@@ -46,7 +45,7 @@ _Example screenshot of the Snake game._
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/snake-game.git
+   git clone https://github.com/fatihyuksel3109/snake-game.git
    ```
 2. Open the `index.html` file in your web browser to start playing the game. No additional installation or dependencies are required.
 
